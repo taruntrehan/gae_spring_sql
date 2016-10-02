@@ -1,0 +1,2 @@
+serviceClass: blog.allzhere.in.client.GreetingService
+path: 30377ADAB7551B791D6B94E17F7CAA88.gwt.rpc
